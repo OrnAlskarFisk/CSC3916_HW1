@@ -36,7 +36,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week3" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
@@ -101,7 +101,7 @@
       <workItem from="1549336199859" duration="1820000" />
       <workItem from="1581823185824" duration="9000" />
       <workItem from="1581823486708" duration="25000" />
-      <workItem from="1581824244353" duration="2575000" />
+      <workItem from="1581824244353" duration="3766000" />
     </task>
     <servers />
   </component>
@@ -113,21 +113,29 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="394" y="101" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1581823506797" />
-    <state width="1366" height="222" key="GridCell.Tab.0.bottom" timestamp="1581834921876">
+    <state x="582" y="198" key="FileChooserDialogImpl" timestamp="1581836078534">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1366" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581834921876" />
-    <state width="1366" height="222" key="GridCell.Tab.0.center" timestamp="1581834921873">
+    <state x="582" y="198" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1581836078534" />
+    <state width="1366" height="222" key="GridCell.Tab.0.bottom" timestamp="1581836003723">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1366" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581834921873" />
-    <state width="1366" height="222" key="GridCell.Tab.0.left" timestamp="1581834921873">
+    <state width="1366" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581836003723" />
+    <state width="1366" height="222" key="GridCell.Tab.0.center" timestamp="1581836003723">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1366" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581834921873" />
-    <state width="1366" height="222" key="GridCell.Tab.0.right" timestamp="1581834921874">
+    <state width="1366" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581836003723" />
+    <state width="1366" height="222" key="GridCell.Tab.0.left" timestamp="1581836003723">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1366" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581834921874" />
+    <state width="1366" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581836003723" />
+    <state width="1366" height="222" key="GridCell.Tab.0.right" timestamp="1581836003723">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1366" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581836003723" />
+    <state x="493" y="39" width="613" height="804" key="find.popup" timestamp="1581835774005">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="493" y="39" width="613" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1581835774005" />
   </component>
 </project>
