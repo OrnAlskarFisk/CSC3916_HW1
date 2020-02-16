@@ -1,5 +1,5 @@
 {
-  "name": "csc3916_hw1",
+  "name": "echoapp",
   "version": "1.0.0",
   "description": "Echo App",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OrnAlskarFisk/CSC3916_HW1.git"
+    "url": "git+https://github.com/shawnmccarthy/week3.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Shawn McCarthy",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OrnAlskarFisk/CSC3916_HW1/issues"
+    "url": "https://github.com/shawnmccarthy/week3/issues"
   },
-  "homepage": "https://github.com/OrnAlskarFisk/CSC3916_HW1#readme"
+  "homepage": "https://github.com/shawnmccarthy/week3#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.2.0",

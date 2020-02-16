@@ -25,12 +25,6 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="140" />
-    <option name="y" value="23" />
-    <option name="width" value="1597" />
-    <option name="height" value="941" />
-  </component>
   <component name="ProjectId" id="1Xs7vqUfyh2xEJyHQe7v7IvfwtQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
