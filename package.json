@@ -1,10 +1,10 @@
 {
   "name": "csc3916_hw1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Echo App",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --timeout 10000 --exit"
   },
   "repository": {
     "type": "git",
@@ -16,4 +16,10 @@
     "url": "https://github.com/OrnAlskarFisk/CSC3916_HW1/issues"
   },
   "homepage": "https://github.com/OrnAlskarFisk/CSC3916_HW1#readme"
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^7.2.2"
+  }
 }
